@@ -1,0 +1,19 @@
+@media  screen and (max-width:400px) {
+
+       /* body{
+        background-color: red;
+       } */
+       h1 {
+        font-size: 20px;
+        margin: 2px 0;
+        padding-right: 40px;
+       }
+       .container{
+        max-width: 250px;
+        padding: 20px;
+       }
+       p {
+        font-size: 13px;
+        line-height: 1.2;
+    }
+}
